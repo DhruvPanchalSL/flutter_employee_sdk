@@ -3,7 +3,7 @@
   "component": {
     "group": "com.example.flutter_employee_module",
     "module": "flutter_debug",
-    "version": "1.2.0",
+    "version": "1.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,28 +27,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         }
       ],
@@ -77,28 +77,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_debug",
           "version": {
-            "requires": "1.2.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
+            "requires": "1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12"
           }
         }
       ],
