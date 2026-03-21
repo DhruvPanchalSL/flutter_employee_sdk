@@ -3,7 +3,7 @@
   "component": {
     "group": "com.example.flutter_employee_module",
     "module": "flutter_release",
-    "version": "1.0",
+    "version": "1.6.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,8 +54,8 @@
       ],
       "files": [
         {
-          "name": "flutter_release-1.0.aar",
-          "url": "flutter_release-1.0.aar",
+          "name": "flutter_release-1.6.0.aar",
+          "url": "flutter_release-1.6.0.aar",
           "size": 3826363,
           "sha512": "38d2b1d2258c4f217612483411d808633556fa8a8c0388241c1b1c1e6172163019d2c8205a274455e8ed7d35c6031d630e5078d9db795ec25c79bce8e3d45c17",
           "sha256": "275dc79bbe4c7149152cf10bed3a287936b8cc9b48f25c5553e1cb6c38c77e1a",
@@ -104,8 +104,8 @@
       ],
       "files": [
         {
-          "name": "flutter_release-1.0.aar",
-          "url": "flutter_release-1.0.aar",
+          "name": "flutter_release-1.6.0.aar",
+          "url": "flutter_release-1.6.0.aar",
           "size": 3826363,
           "sha512": "38d2b1d2258c4f217612483411d808633556fa8a8c0388241c1b1c1e6172163019d2c8205a274455e8ed7d35c6031d630e5078d9db795ec25c79bce8e3d45c17",
           "sha256": "275dc79bbe4c7149152cf10bed3a287936b8cc9b48f25c5553e1cb6c38c77e1a",

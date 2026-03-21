@@ -3,7 +3,7 @@
   "component": {
     "group": "com.example.flutter_employee_module",
     "module": "flutter_debug",
-    "version": "1.0",
+    "version": "1.6.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,8 +54,8 @@
       ],
       "files": [
         {
-          "name": "flutter_debug-1.0.aar",
-          "url": "flutter_debug-1.0.aar",
+          "name": "flutter_debug-1.6.0.aar",
+          "url": "flutter_debug-1.6.0.aar",
           "size": 16883712,
           "sha512": "6e7109f9ca30517dd0546c9b7837a011d3a14c7d89b2766e8c90ea73bc59aa8e6c4bacb3e072e4cb798bd3c470faa7ae1312f604dab94a4939c4addf418d2a24",
           "sha256": "8f155bbc6b25e01230b01f4895ce0071ad662c581d1ec17bc9ae49364a560d24",
@@ -104,8 +104,8 @@
       ],
       "files": [
         {
-          "name": "flutter_debug-1.0.aar",
-          "url": "flutter_debug-1.0.aar",
+          "name": "flutter_debug-1.6.0.aar",
+          "url": "flutter_debug-1.6.0.aar",
           "size": 16883712,
           "sha512": "6e7109f9ca30517dd0546c9b7837a011d3a14c7d89b2766e8c90ea73bc59aa8e6c4bacb3e072e4cb798bd3c470faa7ae1312f604dab94a4939c4addf418d2a24",
           "sha256": "8f155bbc6b25e01230b01f4895ce0071ad662c581d1ec17bc9ae49364a560d24",
